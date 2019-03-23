@@ -1,4 +1,4 @@
-package org.secfirst.Umbrella_Backend;
+package org.secfirst.umbrella.backend;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
